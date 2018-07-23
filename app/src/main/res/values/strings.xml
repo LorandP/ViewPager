@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ViewPager project</string>
+    <string name="esay_payment">Esay Payment</string>
+    <string name="text2_page1">Make payment methods \n \t\twith no hidden fees</string>
+    <string name="text1_page1">Esay Payment</string>
+    <string name="text1_page2">Clearly Transactions</string>
+    <string name="text2_page2">\t\t\t\t\t Control all your \n Transactions every day</string>
+    <string name="text1_page3">Safe Guarantee</string>
+    <string name="text2_page3">\t All your transactions \n\t\t\t\t\t\t\t\t are secure</string>
+    <string name="button_page1">Next</string>
+    <string name="button_page3">Get Started</string>
+</resources>
